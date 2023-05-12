@@ -1,0 +1,18 @@
+*{
+    font-size: 16px;
+}
+body{
+    background-color: blue;
+}
+h3{
+    text-align: center;
+    color: aqua;
+}
+.TextWhite{
+    color: white;
+}
+#EncabezadPrincipal{
+    text-align: center;
+    color: azure;
+}
+ 
